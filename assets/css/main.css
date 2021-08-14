@@ -37,6 +37,36 @@ ol, ul {
 	list-style: none;
 }
 
+.background-picture{
+	background-image: url('../../images/home-bg.jpg');
+	height: 100vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: brightness(70%);
+	position: relative;
+  }
+
+.first-txt {
+	font-family: 'Oswald', sans-serif;;
+	position: absolute;
+	font-size: 3.5em;
+	margin-top: 35vh;
+	top: 5%;
+	left: 50px;
+	color: #fff;
+}
+
+.second-txt{
+	position: absolute;
+	top: 20%;
+	margin-top: 35vh;
+	text-align: center;
+	left: 50px;
+	color: #fff;
+}
+
 blockquote, q {
 	quotes: none;
 }
