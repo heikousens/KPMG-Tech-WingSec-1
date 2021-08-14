@@ -16,5 +16,7 @@
 ## 🕹 Tecnologias Utilizadas
     
 [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/).
+
 [CSS](https://devdocs.io/css/).
+
 [JavaScript](https://developer.mozilla.org/en/JavaScript/).
